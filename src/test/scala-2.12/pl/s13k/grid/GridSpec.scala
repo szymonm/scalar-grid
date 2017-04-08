@@ -1,4 +1,4 @@
-package pl.s13k.tuplemap
+package pl.s13k.grid
 
 import org.scalatest.{Matchers, WordSpec}
 

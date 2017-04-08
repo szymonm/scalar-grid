@@ -1,4 +1,4 @@
-package pl.s13k.tuplemap
+package pl.s13k.grid
 
 import scala.collection.generic.CanBuildFrom
 import scala.collection.{immutable, mutable}
